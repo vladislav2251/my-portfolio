@@ -33,13 +33,13 @@
     },
     { 
       number: "02",
-      label: "AIdea", 
-      description: "Nuxt3 | Shadcn | TailwindCSS | InspiraUI | DeepSeek API chat", 
+      label: "DASHBOARD", 
+      description: "Nuxt3 | Shadcn | TailwindCSS | Supabase | CRM Dashboard", 
       detail: `
-        Talk to an AI that never sleeps, always responds, and sometimes makes more sense than humans `,
-      path: "https://github.com/vladislav2251/AIdea", 
-      src: "/img/aidea.png",
-      link: "https://aidea-r1.vercel.app/"
+        dashboard for managing customers and orders, Authentication with Supabase, Kanban board for tasks, and more`,
+      path: "https://github.com/vladislav2251/nuxt-shadcn-dashboard-starter", 
+      src: "/img/dashboard.png",
+      link: "https://nuxt-shadcn-dashboard-starter.vercel.app/"
     },
   ]);
   </script>
