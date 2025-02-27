@@ -36,7 +36,7 @@
       label: "DASHBOARD", 
       description: "Nuxt3 | Shadcn | TailwindCSS | Supabase | CRM Dashboard", 
       detail: `
-        dashboard for managing customers and orders, Authentication with Supabase, Kanban board for tasks, and more`,
+        dashboard for managing customers and orders, Authentication with Github, Kanban board for tasks, and more`,
       path: "https://github.com/vladislav2251/nuxt-shadcn-dashboard-starter", 
       src: "/img/dashboard.png",
       link: "https://nuxt-shadcn-dashboard-starter.vercel.app/"
