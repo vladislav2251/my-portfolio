@@ -41,6 +41,16 @@
       src: "/img/dashboard.png",
       link: "https://nuxt-shadcn-dashboard-starter.vercel.app/"
     },
+    { 
+      number: "03",
+      label: "NESTJS MONOBANK", 
+      description: "Nuxt3 | Shadcn | TailwindCSS | NestJs | Turbo Repo", 
+      detail: `
+        I developed the front-end part of the website. A simple and convenient solution for integrating the Monobank payment system into your NestJS application. Use this module to create and manage invoices, check statuses, cancel invoices, and implement other payment scenarios with maximum ease.`,
+      path: "https://github.com/vladislav2251/nestjs-monobank", 
+      src: "/img/mono.png",
+      link: "https://nestjs-monobank.vercel.app/"
+    },
   ]);
   </script>
   
